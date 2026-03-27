@@ -1,5 +1,6 @@
-- Felipe Santos Coutinho
+- Felipe Coutinho
 - http://dreampop.xyz
 - Técnico em eletrônica - ETECPV (2023-2025)
+- Engenharia Elétrica - UFSCar
 - Mogi das Cruzes, SP
 - Contato: fsctnh@gmail.com
