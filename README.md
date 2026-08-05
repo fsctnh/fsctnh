@@ -1,6 +1,6 @@
 - Felipe Coutinho
 - http://dreampop.xyz
-- Técnico em eletrônica - ETECPV (2023-2025)
-- Engenharia Elétrica - UFSCar
+- Electronics Technician - ETEC PV (2023-2025)
+- UFSCar - Department of Electrical Engineering
 - Mogi das Cruzes, SP
-- Contato: fsctnh@gmail.com
+- Contact: fsctnh@gmail.com
